@@ -11,6 +11,8 @@
 grid-container */
 
 .grid-container {
+    display: grid;
+    grid-template-columns: 100px 150px;
     height: 100vh;
     border: 10px solid #db9288;
 }
